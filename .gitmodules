@@ -4,51 +4,51 @@
 	branch = master
 [submodule "python_utils"]
 	path = python_utils
-	url = https://github.com/gkouretas/python_utils
+	url = https://github.com/HMI2-Research-Group/python_utils
 	branch = main
 [submodule "src/exercise_decoder_node"]
 	path = src/exercise_decoder_node
-	url = https://github.com/gkouretas/exercise_decoder_node
+	url = https://github.com/HMI2-Research-Group/exercise_decoder_node
 	branch = main
 [submodule "src/idl_definitions"]
 	path = src/idl_definitions
-	url = https://github.com/gkouretas/idl_definitions
+	url = https://github.com/HMI2-Research-Group/idl_definitions
 	branch = main
 [submodule "src/ros2_mindrove"]
 	path = src/ros2_mindrove
-	url = https://github.com/gkouretas/ros2_mindrove
+	url = https://github.com/HMI2-Research-Group/ros2_mindrove
 	branch = main
 [submodule "src/pi_user_input_node"]
 	path = src/pi_user_input_node
-	url = https://github.com/gkouretas/pi_user_input_node
+	url = https://github.com/HMI2-Research-Group/pi_user_input_node
 	branch = main
 [submodule "src/ur10e_custom_control"]
 	path = src/ur10e_custom_control
-	url = https://github.com/gkouretas/ur10e_custom_control
+	url = https://github.com/HMI2-Research-Group/ur10e_custom_control
 	branch = temp/late-night-spin-debug-stuff
 [submodule "src/ros2_plux_biosignals"]
 	path = src/ros2_plux_biosignals
-	url = https://github.com/gkouretas/ros2_plux_biosignals
+	url = https://github.com/HMI2-Research-Group/ros2_plux_biosignals
 	branch = main
 [submodule "src/fatigue_classifier"]
 	path = src/fatigue_classifier
-	url = https://github.com/gkouretas/fatigue_classifier
+	url = https://github.com/HMI2-Research-Group/fatigue_classifier
 	branch = main
 [submodule "src/Universal_Robots_Client_Library"]
 	path = src/Universal_Robots_Client_Library
-	url = https://github.com/gkouretas/Universal_Robots_Client_Library
+	url = https://github.com/HMI2-Research-Group/Universal_Robots_Client_Library
 	branch = george-main-fork
 [submodule "src/Universal_Robots_ROS2_Driver"]
 	path = src/Universal_Robots_ROS2_Driver
-	url = https://github.com/gkouretas/Universal_Robots_ROS2_Driver
+	url = https://github.com/HMI2-Research-Group/Universal_Robots_ROS2_Driver
 	branch = george-humble-fork
 [submodule "src/ur_msgs"]
 	path = src/ur_msgs
-	url = https://github.com/gkouretas/ur_msgs
+	url = https://github.com/HMI2-Research-Group/ur_msgs
 	branch = george-humble-devel-fork
 [submodule "src/Universal_Robots_ROS2_Description"]
 	path = src/Universal_Robots_ROS2_Description
-	url = https://github.com/gkouretas/Universal_Robots_ROS2_Description
+	url = https://github.com/HMI2-Research-Group/Universal_Robots_ROS2_Description
 	branch = george-humble-fork
 [submodule "thirdparty/wifi_driver/8821cu-20210916"]
 	path = thirdparty/wifi_driver/8821cu-20210916
@@ -56,4 +56,4 @@
 	branch = main
 [submodule "src/fatigue_experiment_control"]
 	path = src/fatigue_experiment_control
-	url = https://github.com/gkouretas/fatigue_experiment_control
+	url = https://github.com/HMI2-Research-Group/fatigue_experiment_control
